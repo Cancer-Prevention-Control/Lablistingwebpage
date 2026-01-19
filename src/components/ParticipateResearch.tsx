@@ -366,7 +366,7 @@ export function ParticipateResearch({ onBack, onStudyClick }: ParticipateResearc
             <div className="hidden lg:block">
               <div className="rounded-lg overflow-hidden shadow-2xl">
                 <ImageWithFallback 
-                  src="https://images.unsplash.com/photo-1560220604-1985ebfe28b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkaXZlcnNlJTIwcGVvcGxlJTIwcmVzZWFyY2glMjB2b2x1bnRlZXJzfGVufDF8fHx8MTc2MjM3ODQyNHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                  src="https://images.unsplash.com/photo-1655720359248-eeace8c709c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkaXZlcnNlJTIwcG9wdWxhdGlvbiUyMGNvbW11bml0eSUyMGhlYWx0aHxlbnwxfHx8fDE3Njg4NDUzNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
                   alt="Research participants"
                   className="w-full h-full object-cover"
                 />
@@ -460,12 +460,6 @@ export function ParticipateResearch({ onBack, onStudyClick }: ParticipateResearc
               className="bg-white text-[#1a3a5c] px-6 py-3 rounded-lg hover:bg-gray-100 transition-colors"
             >
               Contact Research Team
-            </a>
-            <a 
-              href="tel:713-441-6969"
-              className="border-2 border-white px-6 py-3 rounded-lg hover:bg-white/10 transition-colors"
-            >
-              Call: (713) 441-6969
             </a>
           </div>
         </div>

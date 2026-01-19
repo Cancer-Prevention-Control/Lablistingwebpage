@@ -716,7 +716,7 @@ export default function App() {
             <div className="md:col-span-1">
               <CPCLogo className="h-24 w-auto mb-4" />
               <p className="text-sm opacity-90">
-                Houston Methodist Cancer Prevention and Control Program
+                Cancer Prevention and Control Program
               </p>
             </div>
 
@@ -746,7 +746,7 @@ export default function App() {
             <div>
               <h3 className="text-xl mb-4">Contact Us</h3>
               <p className="text-sm mb-2">
-                Houston Methodist Research Institute<br />
+                Research Institute<br />
                 6670 Bertner Avenue (R9)<br />
                 Houston, TX 77030
               </p>
@@ -759,7 +759,7 @@ export default function App() {
           </div>
 
           <div className="border-t border-white/20 pt-6 text-center text-sm opacity-75">
-            <p>© 2025 Houston Methodist. All rights reserved.</p>
+            <p>© 2025 Cancer Prevention and Control Program. All rights reserved.</p>
           </div>
         </div>
       </footer>
