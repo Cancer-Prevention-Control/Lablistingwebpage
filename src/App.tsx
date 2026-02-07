@@ -17,7 +17,7 @@ const carouselSlides = [
   {
     image: imgSecureStudy,
     title: "Our Mission",
-    description: "The mission of the Cancer Prevention and Control (CPC) Program within the Houston Methodist Dr. Mary and Ron Neal Cancer Center (HMNCC) is to prevent and control cancer by identifying factors that contribute to cancer development, conducting interventions in high-risk individuals who would benefit most from precision prevention strategies, and supporting cancer patients after cancer treatment to improve quality of life for survivors"
+    description: "The mission of the Cancer Prevention and Control (CPC) Program within the Houston Methodist Dr. Mary and Ron Neal Cancer Center (HMNCC) is to prevent and control cancer by identifying factors that contribute to cancer development, conducting interventions in high-risk individuals who would benefit most from precision prevention strategies, and supporting cancer patients after cancer treatment to improve quality of life for survivors."
   },
   {
     image: "https://images.unsplash.com/photo-1575853168674-9222301f4f42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaW5rJTIwcmliYm9uJTIwY2FuY2VyfGVufDF8fHx8MTc2MTg0NDQ1NXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",

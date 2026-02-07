@@ -56,29 +56,11 @@ export function ProgramAims({ onBack }: ProgramAimsProps) {
             </div>
             <div className="p-8">
               <h3 className="text-2xl mb-4 text-gray-900">
-                Cancer Interception through Precision Prevention
+                Cancer Interception through Precision Prevention.
               </h3>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Develop molecularly targeted interventions for cancer prevention among high-risk individuals 
-                likely to benefit from precision prevention.
+                Develop molecularly targeted interventions for cancer prevention among high-risk individuals likely to benefit from precision prevention.
               </p>
-              <div className="mt-6 bg-gray-50 p-6 rounded-lg">
-                <h4 className="text-xl mb-3 text-gray-900">Key Focus Areas:</h4>
-                <ul className="space-y-2 text-gray-700">
-                  <li className="flex items-start gap-2">
-                    <span className="text-[#00677F] mt-1">•</span>
-                    <span>Identification of high-risk populations through advanced molecular profiling</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-[#00677F] mt-1">•</span>
-                    <span>Development of targeted prevention strategies based on individual risk profiles</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-[#00677F] mt-1">•</span>
-                    <span>Translation of precision medicine approaches to cancer prevention</span>
-                  </li>
-                </ul>
-              </div>
             </div>
           </div>
 
@@ -89,29 +71,11 @@ export function ProgramAims({ onBack }: ProgramAimsProps) {
             </div>
             <div className="p-8">
               <h3 className="text-2xl mb-4 text-gray-900">
-                Cancer Control through Innovations in Early Detection and Treatment
+                Cancer Control through Innovations in Early Detection and Treatment.
               </h3>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Develop innovative strategies for early cancer detection and implementation of cancer control 
-                delivery and survivorship care guided by a cancer exposome framework.
+                Develop innovative strategies for early cancer detection and implementation of cancer control delivery and survivorship care guided by a cancer exposome framework.
               </p>
-              <div className="mt-6 bg-gray-50 p-6 rounded-lg">
-                <h4 className="text-xl mb-3 text-gray-900">Key Focus Areas:</h4>
-                <ul className="space-y-2 text-gray-700">
-                  <li className="flex items-start gap-2">
-                    <span className="text-[#8B1538] mt-1">•</span>
-                    <span>Novel early detection technologies and screening methodologies</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-[#8B1538] mt-1">•</span>
-                    <span>Comprehensive survivorship care programs to improve quality of life</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-[#8B1538] mt-1">•</span>
-                    <span>Integration of cancer exposome research to understand environmental and lifestyle factors</span>
-                  </li>
-                </ul>
-              </div>
             </div>
           </div>
 
@@ -122,28 +86,11 @@ export function ProgramAims({ onBack }: ProgramAimsProps) {
             </div>
             <div className="p-8">
               <h3 className="text-2xl mb-4 text-gray-900">
-                Cancer Disparities and Patient Outcomes
+                Cancer Disparities and Patient Outcomes.
               </h3>
               <p className="text-lg text-gray-700 leading-relaxed">
                 Develop and evaluate cancer care throughout the cancer continuum.
               </p>
-              <div className="mt-6 bg-gray-50 p-6 rounded-lg">
-                <h4 className="text-xl mb-3 text-gray-900">Key Focus Areas:</h4>
-                <ul className="space-y-2 text-gray-700">
-                  <li className="flex items-start gap-2">
-                    <span className="text-[#00677F] mt-1">•</span>
-                    <span>Addressing cancer health disparities across diverse populations</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-[#00677F] mt-1">•</span>
-                    <span>Improving patient-reported outcomes and quality of life measures</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-[#00677F] mt-1">•</span>
-                    <span>Evaluating effectiveness of interventions across the entire cancer care continuum</span>
-                  </li>
-                </ul>
-              </div>
             </div>
           </div>
         </div>

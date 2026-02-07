@@ -35,6 +35,7 @@ export function MissionVision({ onBack }: MissionVisionProps) {
 
   const navItems = [
     { id: 'section-mission', label: 'Mission' },
+    { id: 'section-vision', label: 'Vision' },
     { id: 'section-approach', label: 'Our Comprehensive Approach' },
     { id: 'section-research', label: 'Research Excellence' },
     { id: 'section-community', label: 'Community Impact' },
@@ -92,13 +93,16 @@ export function MissionVision({ onBack }: MissionVisionProps) {
             {/* Mission Section */}
             <section id="section-mission" className="bg-white rounded-lg shadow-md p-8 mb-8">
               <h2 className="text-3xl mb-4 text-gray-900">Mission</h2>
-              <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                The CPC Cancer Center is committed to reducing the burden of cancer through prevention research, 
-                comprehensive patient care, and community engagement. We strive to accelerate discoveries into clinical 
-                applications that improve outcomes for cancer patients. Our mission encompasses translational research, 
-                state-of-the-art clinical programs, and patient-centered care. The Cancer Prevention and Control Program 
-                uniquely integrates strategies to prevent cancer development and progression with efforts to improve 
-                prevention, screening, and treatment outcomes for cancer patients and survivors in our catchment area.
+              <p className="text-lg text-gray-700 leading-relaxed">
+                The <span className="font-bold underline">mission</span> of the Cancer Prevention and Control (CPC) Program within the Houston Methodist Dr. Mary and Ron Neal Cancer Center (HMNCC) is to prevent and control cancer by identifying factors that contribute to cancer development, conducting interventions in high-risk individuals who would benefit most from precision prevention strategies, and supporting cancer patients after cancer treatment to improve quality of life for survivors.
+              </p>
+            </section>
+
+            {/* Vision Section */}
+            <section id="section-vision" className="bg-white rounded-lg shadow-md p-8 mb-8">
+              <h2 className="text-3xl mb-4 text-gray-900">Vision</h2>
+              <p className="text-lg text-gray-700 leading-relaxed">
+                The CPC Program <span className="font-bold underline">vision</span> is to be a &quot;nucleus&quot; for promoting evidence-based, multidisciplinary, and translational research in cancer prevention and control for the community, clinicians, and researchers that promotes equitable cancer care and outcomes for all residents of the 8-county catchment area.
               </p>
             </section>
 
